@@ -15,6 +15,7 @@
 		FF5FF8C5244DD4D30041BE44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF5FF8C4244DD4D30041BE44 /* Assets.xcassets */; };
 		FF5FF8C8244DD4D30041BE44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF5FF8C6244DD4D30041BE44 /* LaunchScreen.storyboard */; };
 		FF5FF8D3244DD4D30041BE44 /* PasswordChangerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF5FF8D2244DD4D30041BE44 /* PasswordChangerTests.swift */; };
+		FF5FF8DE244DD7C90041BE44 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF5FF8DD244DD7C90041BE44 /* WebViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		FF5FF8CE244DD4D30041BE44 /* PasswordChangerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PasswordChangerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF5FF8D2244DD4D30041BE44 /* PasswordChangerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordChangerTests.swift; sourceTree = "<group>"; };
 		FF5FF8D4244DD4D30041BE44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF5FF8DD244DD7C90041BE44 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				FF5FF8B8244DD4D00041BE44 /* AppDelegate.swift */,
 				FF5FF8BA244DD4D00041BE44 /* SceneDelegate.swift */,
 				FF5FF8BC244DD4D00041BE44 /* ViewController.swift */,
+				FF5FF8DD244DD7C90041BE44 /* WebViewController.swift */,
 				FF5FF8BE244DD4D00041BE44 /* Main.storyboard */,
 				FF5FF8C4244DD4D30041BE44 /* Assets.xcassets */,
 				FF5FF8C6244DD4D30041BE44 /* LaunchScreen.storyboard */,
@@ -206,6 +209,7 @@
 				FF5FF8BD244DD4D00041BE44 /* ViewController.swift in Sources */,
 				FF5FF8B9244DD4D00041BE44 /* AppDelegate.swift in Sources */,
 				FF5FF8BB244DD4D00041BE44 /* SceneDelegate.swift in Sources */,
+				FF5FF8DE244DD7C90041BE44 /* WebViewController.swift in Sources */,
 				FF5FF8C3244DD4D00041BE44 /* PasswordChanger.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
